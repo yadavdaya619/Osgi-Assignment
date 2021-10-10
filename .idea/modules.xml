@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mysite/mysite.iml" filepath="$PROJECT_DIR$/mysite/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/all/mysite.all.iml" filepath="$PROJECT_DIR$/mysite/all/mysite.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/core/mysite.core.iml" filepath="$PROJECT_DIR$/mysite/core/mysite.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/dispatcher/mysite.dispatcher.ams.iml" filepath="$PROJECT_DIR$/mysite/dispatcher/mysite.dispatcher.ams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/it.tests/mysite.it.tests.iml" filepath="$PROJECT_DIR$/mysite/it.tests/mysite.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/ui.apps/mysite.ui.apps.iml" filepath="$PROJECT_DIR$/mysite/ui.apps/mysite.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/ui.apps.structure/mysite.ui.apps.structure.iml" filepath="$PROJECT_DIR$/mysite/ui.apps.structure/mysite.ui.apps.structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/ui.config/mysite.ui.config.iml" filepath="$PROJECT_DIR$/mysite/ui.config/mysite.ui.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/ui.content/mysite.ui.content.iml" filepath="$PROJECT_DIR$/mysite/ui.content/mysite.ui.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/ui.frontend/mysite.ui.frontend.iml" filepath="$PROJECT_DIR$/mysite/ui.frontend/mysite.ui.frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysite/ui.tests/mysite.ui.tests.iml" filepath="$PROJECT_DIR$/mysite/ui.tests/mysite.ui.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/osgi-Assignment.iml" filepath="$PROJECT_DIR$/.idea/osgi-Assignment.iml" />
+    </modules>
+  </component>
+</project>
