@@ -1,0 +1,22 @@
+
+<body style="background-color:${properties.color @context='styleString'}">
+    <sly data-sly-use.content="logic.js">
+
+        <div style="background-color:red;">
+            <select data-sly-list.myItem="${content.result.listChildren}">
+                <option value="${myItem.value}" selected>${myItem.text}</option>
+            </select>
+        </div>
+
+        <div style="background-color:green;">
+            <select data-sly-list.myItem="${content.result.listChildren}">
+                <option value="${myItem.value}">${myItem.text}</option>
+            </select>
+        </div>
+
+        <p>Name of the current node (parent node) is: ${currentNode.Name}</p><br>
+        <p>Property of this node is: ${properties.color} which is sky-blue</p><br>
+        <p style="font-size: 25px;color: red;">Blue background as in current node property color is set to blue</p>
+    </sly>
+
+</body>

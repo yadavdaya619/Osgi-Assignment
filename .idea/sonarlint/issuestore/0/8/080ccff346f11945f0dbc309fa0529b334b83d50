@@ -1,0 +1,10 @@
+
+f	java:S116 "QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢
+>
+java:S1948 "(Make "LOGGER" transient or serializable.(‘Â¯¢
+N
+java:S1948%"3Make "classSizeAndMarks" transient or serializable.(ò©Ë‚ÿÿÿÿÿ
+J
+java:S1948("/Make "studentConfig" transient or serializable.(…ñŽÙþÿÿÿÿ
+G
+java:S1153B"1Directly append the argument of String.valueOf().(ê£ö¢

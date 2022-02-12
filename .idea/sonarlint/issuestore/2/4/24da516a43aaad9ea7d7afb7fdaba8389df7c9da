@@ -1,0 +1,16 @@
+
+f	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢
+K
+java:S2696"6Make the enclosing method "static" or remove this set.(°þû?
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Ëóðàøÿÿÿÿ
+\
+java:S1126-"AReplace this if-then-else statement by a single return statement.(ú„¹öûÿÿÿÿ
+m
+java:S1104"WMake allowedSize a static final constant or non-public and provide accessors if needed.(–‚òÛ
+l
+java:S1104"QMake marks a static final constant or non-public and provide accessors if needed.(Œªõ‚üÿÿÿÿ
+G
+java:S1444"1Make this "public static allowedSize" field final(–‚òÛ
+F
+java:S1444"+Make this "public static marks" field final(Œªõ‚üÿÿÿÿ

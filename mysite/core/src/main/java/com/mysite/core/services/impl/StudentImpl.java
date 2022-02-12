@@ -21,6 +21,7 @@ public class StudentImpl implements StudentConfig {
         listOfStudents.remove(student);
     }
 
+
     @Override
     public boolean isStudentPassed(Student student) {
         if(student.getMarks_obtained() >= ClassSizeAndMarksImpl.marks)
