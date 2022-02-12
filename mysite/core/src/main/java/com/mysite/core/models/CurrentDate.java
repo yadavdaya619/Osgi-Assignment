@@ -18,6 +18,6 @@ public class CurrentDate implements Use {
         today = dateFormat.format(date);
     }
     public String getToday(){
-        return today;
+        return (today);
     }
 }
